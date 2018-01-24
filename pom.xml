@@ -54,7 +54,7 @@
 					<!-- MainClass in mainfest make a executable jar -->
 					<archive>
 						<manifest>
-							<mainClass>PicoRunnerMain</mainClass>
+							<mainClass>PicoRunnerMain2</mainClass>
 						</manifest>
 					</archive>
 
