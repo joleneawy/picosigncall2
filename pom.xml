@@ -4,7 +4,7 @@
 	<groupId>PicoRunner</groupId>
 	<artifactId>PicoRunner</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>PicoRunner</name>
+	<name>PicoRunner2</name>
 	<properties>
 		<jdk.version>1.8</jdk.version>
 	</properties>
@@ -16,7 +16,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>PicoRunner</finalName>
+		<finalName>PicoRunner2</finalName>
 		<plugins>
 
 			<!-- download source code in Eclipse, best practice -->
